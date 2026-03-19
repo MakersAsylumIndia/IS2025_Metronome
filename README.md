@@ -10,6 +10,10 @@ Musicians who are deaf or hard of hearing often face challenges keeping time dur
 
 We've reinvented the metronome, keeping instrumentalists in mind. Using ESP8266s, a couple of basic circuit components, coin motors, and lots of code, we've created and enabled 2 wearable compression bands to function as medium of real-time, synchronised haptics that you can feel directly. The interface that's been programmed on Adafruit.io allows the user to turn on the BPM feature and control what value they want. Both bands are also rechargeable with a type-C cable.
 
+## ADDITIONAL INFO
+
+We maintained a daily Wiki of our progress - [details can be found at this link](https://github.com/MakersAsylumIndia/IS2025_Metronome/wiki)
+
 ---
 
 ## 🪪 License
