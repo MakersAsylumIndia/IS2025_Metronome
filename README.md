@@ -33,6 +33,14 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ---
 
+## [OSHWA Certification](https://certification.oshwa.org/list.html)
+
+[OSHW] IN000091 | Certified open source hardware | oshwa.org/cert
+
+<a href="https://certification.oshwa.org/in000091.html"><img src="/certification-mark-IN000091-stacked.png" width="300"/></a>
+
+---
+
 ## 📬 The Team
 
 ### Makers
